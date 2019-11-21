@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "803830695686",
+    "firebase_url": "https://drishti-9cd60.firebaseio.com",
+    "project_id": "drishti-9cd60",
+    "storage_bucket": "drishti-9cd60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803830695686:android:8dc8a6f2d6a75d0f8a0087",
+        "android_client_info": {
+          "package_name": "com.example.chmarax.logregform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803830695686-nasbn4faffnpu45nh7cqssb19ii99on6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chmarax.logregform",
+            "certificate_hash": "cabae53b46eb833851964b3ee824a3977e223a58"
+          }
+        },
+        {
+          "client_id": "803830695686-ea8v3tnclfh8n7em2sfg6sbdnt8hierk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDuliknWDXNdW3LBV8FN4OYWvd45opJa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803830695686-ea8v3tnclfh8n7em2sfg6sbdnt8hierk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
